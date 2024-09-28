@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://oqualtes.github.io/sitemap.oqualtes.gz
+Sitemap: https://oqualtes.github.io/app/sitemap.oqualtes.gz
+Sitemap: https://oqualtes.github.io/assets/sitemap.oqualtes.gz
+Sitemap: https://oqualtes.github.io/css/sitemap.oqualtes.gz
+Sitemap: https://oqualtes.github.io/data/sitemap.oqualtes.gz
+Sitemap: https://oqualtes.github.io/includes/sitemap.oqualtes.gz
+Sitemap: https://oqualtes.github.io/item/sitemap.oqualtes.gz
+Sitemap: https://oqualtes.github.io/src/sitemap.oqualtes.gz
